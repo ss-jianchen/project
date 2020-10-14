@@ -1,0 +1,152 @@
+{
+    "operations": [
+        {
+            "timing": 865,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 576,
+                    "y": 10129,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 869,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 928,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 576,
+                    "y": 10129,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 928,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 2121,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 4000,
+                    "y": 3451,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 2125,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 2208,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 4000,
+                    "y": 3451,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 2209,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 3432,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 3808,
+                    "y": 6167,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 3437,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 3496,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 3808,
+                    "y": 6167,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 3501,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 9656,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 18560,
+                    "y": 9969,
+                    "state": 1
+                }
+            ]
+        },
+        {
+            "timing": 9661,
+            "operationId": "PutMultiTouch",
+            "points": []
+        },
+        {
+            "timing": 9744,
+            "operationId": "PutMultiTouch",
+            "points": [
+                {
+                    "id": 1,
+                    "x": 18560,
+                    "y": 9969,
+                    "state": 0
+                }
+            ]
+        },
+        {
+            "timing": 9745,
+            "operationId": "PutMultiTouch",
+            "points": []
+        }
+    ],
+    "recordInfo": {
+        "loopType": 0,
+        "loopTimes": 1,
+        "circleDuration": 13456,
+        "loopInterval": 0,
+        "loopDuration": 0,
+        "accelerateTimes": 1,
+        "recordName": "",
+        "createTime": "2020-10-13 22:27:32",
+        "playOnBoot": false,
+        "rebootTiming": 0
+    }
+}
